@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">LocationExampleAndroid</string>
-    <string name="latitude_string">Latitude now:</string>
-    <string name="longitude_string">Longitude now:</string>
-
-</resources>
